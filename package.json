@@ -1,0 +1,27 @@
+{
+  "name": "chai-mocha-basics",
+  "version": "1.0.0",
+  "description": "A basic Chai Mocha setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessadacharoen/chai-mocha-basics.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Jessada Charoenkitvorawut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessadacharoen/chai-mocha-basics/issues"
+  },
+  "homepage": "https://github.com/jessadacharoen/chai-mocha-basics",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
